@@ -1,0 +1,9 @@
+fieldset {
+  border: none;
+  display: inline;
+}
+.box {
+  width: 340px;
+  height: 40px;
+  padding-left: 35px;
+}

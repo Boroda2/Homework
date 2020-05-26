@@ -1,0 +1,10 @@
+.hero {
+  background-color: rgb(110, 110, 255);
+  color: #ffffff;
+  text-align: center;
+  padding: 40px;
+}
+
+.hero-subtitle {
+  text-transform: uppercase;
+}
