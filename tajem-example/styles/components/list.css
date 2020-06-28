@@ -1,0 +1,19 @@
+.list-contacts {
+    list-style: none;
+    padding-left: 0;
+}
+
+.list-contacts > li {
+    margin-bottom: 16px;
+}
+
+.list-contacts .list-content {
+    display: flex;
+    align-items: flex-start;
+}
+
+.list-contacts .list-content .list-icon {
+    margin-right: 8px;
+    width: 20px;
+    flex-shrink: 0;
+}
